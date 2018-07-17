@@ -1,11 +1,24 @@
-# Facial-Keypoints-Annotation-Tool
-Facial keypoints annotation in video
+# FKAT: Facial-Keypoints-Annotation-Tool
 
-<figure>
-    <img src="https://github.com/boboyiyi/Facial-Keypoints-Annotation-Tool/blob/master/data/FKAT.jpg">
-</figure>
+A simple, single file GUI tool for facial keypoints annotation.
 
-Simple, single file GUI tools for facial keypoints annotation. Right now, it is heavily under development.
+![Screenshot](./data/FKAT.jpg)
+
+> Right now, it is heavily under development.
+
+## Usage
+
+### Basic
+
+Coming soon...
+
+### Keyboard shortcuts
+
+Coming soon...
+
+## Dependences
+
+- [OpenCV](https://opencv.org/) 3.3.0 or later
 
 To do:
 - [x] Upload source code.
