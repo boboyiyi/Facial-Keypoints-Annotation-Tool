@@ -1,6 +1,6 @@
 # FKAT: Facial-Keypoints-Annotation-Tool
 
-A simple, single file GUI tool for facial keypoints annotation.
+A simple, single file GUI tool for facial keypoints annotation in video.
 
 ![Screenshot](./data/FKAT.jpg)
 
@@ -20,7 +20,7 @@ Coming soon...
 
 - [OpenCV](https://opencv.org/) 3.3.0 or later
 
-To do:
+## To do:
 - [x] Upload source code.
 - [ ] Complete functions.
 - [ ] Detailed readme.
